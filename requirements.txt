@@ -1,0 +1,4 @@
+osmnx>=2.0,<3
+networkx>=3.2,<4
+folium>=0.16,<1
+matplotlib>=3.8,<4
