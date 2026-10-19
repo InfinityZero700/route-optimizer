@@ -1,4 +1,4 @@
-# Network Route Optimizer
+# Route Optimizer
 
 **Comparing Dijkstra's algorithm and A* search on real street networks using Python, graph theory, and geographic distance estimates.**
 
