@@ -141,7 +141,3 @@ Possible extensions: let users select origin/destination coordinates, benchmark 
 ## Data attribution
 
 Road data: © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright). OSMnx is used to retrieve and structure the network; Folium visualizes the route.
-
-## License
-
-MIT — see [`LICENSE`](LICENSE).
